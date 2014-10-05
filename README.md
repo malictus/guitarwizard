@@ -3,6 +3,8 @@ Guitar Wizard
 
 Guitar Wizard is a user-friendly, GUI-based application for customizing Guitar Hero games for the PlayStation 2. It is written in Java and was written in 2007. It was transferred to GitHub in October 2014 with only tiny modifications.
 
+To run the program, unzip the guitarwizard.zip file into a folder, and click on the guitarwizard.jar file. Be sure to keep the supplemental files in the same directory.
+
 Requirements
 ------------
 Works with Playstation 2 version only
